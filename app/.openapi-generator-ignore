@@ -1,0 +1,5 @@
+# OpenAPI Generator Ignore
+
+build.gradle
+settings.gradle
+README.md

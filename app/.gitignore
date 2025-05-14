@@ -1,0 +1,5 @@
+.openapi-generator/
+src/*/kotlin/com/sourcegraph/demo/openapi/generated
+src/*/kotlin/org/openapitools
+docs
+build.gradle
