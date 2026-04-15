@@ -18,7 +18,7 @@ dependencies {
     // JSON serialization dependencies
     implementation("com.squareup.moshi:moshi:${property("moshi_version")}")
     implementation("com.squareup.moshi:moshi-kotlin:${property("moshi_version")}")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
 
     // Ktor dependencies
     implementation("io.ktor:ktor-server-core:1.6.8")
