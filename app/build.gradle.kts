@@ -29,8 +29,8 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.2.11")
 
     // Test dependencies - choose one testing framework
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
-    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.8.2")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.14.4")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.14.4")
 
     // Ktor testing dependencies
     testImplementation("io.ktor:ktor-server-test-host:1.6.8")
