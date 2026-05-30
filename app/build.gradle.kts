@@ -36,7 +36,7 @@ dependencies {
     testImplementation("io.ktor:ktor-server-test-host:1.6.8")
 
     // Add MockK for Kotlin-native mocking
-    testImplementation("io.mockk:mockk:1.13.5")
+    testImplementation("io.mockk:mockk:1.14.11")
 }
 
 application {
