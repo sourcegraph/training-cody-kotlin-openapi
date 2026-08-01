@@ -21,8 +21,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2")
 
     // Ktor dependencies
-    implementation("io.ktor:ktor-server-core:1.6.8")
-    implementation("io.ktor:ktor-server-netty:1.6.8")
+    implementation("io.ktor:ktor-server-core:3.5.2")
+    implementation("io.ktor:ktor-server-netty:3.5.2")
     implementation("io.ktor:ktor-jackson:1.6.8")
 
     // Add Logback as the SLF4J implementation
@@ -33,7 +33,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-engine:5.8.2")
 
     // Ktor testing dependencies
-    testImplementation("io.ktor:ktor-server-test-host:1.6.8")
+    testImplementation("io.ktor:ktor-server-test-host:3.5.2")
 
     // Add MockK for Kotlin-native mocking
     testImplementation("io.mockk:mockk:1.13.5")
