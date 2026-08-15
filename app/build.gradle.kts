@@ -26,7 +26,7 @@ dependencies {
     implementation("io.ktor:ktor-jackson:1.6.8")
 
     // Add Logback as the SLF4J implementation
-    implementation("ch.qos.logback:logback-classic:1.2.11")
+    implementation("ch.qos.logback:logback-classic:1.6.3")
 
     // Test dependencies - choose one testing framework
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
