@@ -1,6 +1,6 @@
 plugins {
     id("buildsrc.convention.kotlin-jvm")
-    id("org.openapi.generator") version "7.10.0"
+    id("org.openapi.generator") version "7.25.0"
     id("org.owasp.dependencycheck") version "12.1.0"
     application
 }
